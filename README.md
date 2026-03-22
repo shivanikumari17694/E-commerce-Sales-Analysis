@@ -60,7 +60,7 @@ Worked with 2000+ records in each table
 Applied SQL joins and aggregate functions
 Created views for better data analysis
 
-Screenshot/Demo:
+Screenshot/Demo:https://github.com/shivanikumari17694/E-commerce-Sales-Analysis/blob/main/sql_projects.sql
 
 
 
