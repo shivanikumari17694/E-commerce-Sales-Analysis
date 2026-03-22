@@ -66,7 +66,7 @@ Created views for better data analysis
 
 
 
-I am a BCA student passionate about data analysis and visualization.
+I am a BCA student passionate about data analysis and visualisation.
 Currently learning SQL and Power BI to build real-world projects.
 
 ---
