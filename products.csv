@@ -1,0 +1,2001 @@
+product_id,product_name,category,price
+1,Tablet,Electronics,33567
+2,Smartphone,Electronics,18805
+3,Tablet,Electronics,24331
+4,Wardrobe,Home,8996
+5,Football,Sports,2373
+6,Wardrobe,Home,47424
+7,Dress,Clothing,331
+8,Jeans,Clothing,23069
+9,Wardrobe,Home,70050
+10,Jacket,Clothing,67756
+11,T-shirt,Clothing,36405
+12,Chair,Home,47628
+13,Smartphone,Electronics,1768
+14,T-shirt,Clothing,56009
+15,Tablet,Electronics,74329
+16,Yoga Mat,Sports,33160
+17,Dining Table,Home,2185
+18,Laptop,Electronics,4978
+19,Smartphone,Electronics,20463
+20,Sneakers,Clothing,38932
+21,Tablet,Electronics,62400
+22,Smartwatch,Electronics,40773
+23,Gym Dumbbells,Sports,31582
+24,Yoga Mat,Sports,7351
+25,Jacket,Clothing,66201
+26,Yoga Mat,Sports,22586
+27,Dining Table,Home,27048
+28,Laptop,Electronics,74601
+29,Headphones,Electronics,76975
+30,Sofa,Home,7724
+31,Cricket Bat,Sports,46511
+32,Wardrobe,Home,49551
+33,Dress,Clothing,62816
+34,Smartphone,Electronics,4940
+35,Laptop,Electronics,74812
+36,Headphones,Electronics,6247
+37,Jacket,Clothing,70972
+38,Tablet,Electronics,67556
+39,Sneakers,Clothing,68208
+40,T-shirt,Clothing,4353
+41,Dining Table,Home,13487
+42,Dress,Clothing,49535
+43,Chair,Home,63570
+44,Smartwatch,Electronics,4095
+45,Headphones,Electronics,40931
+46,T-shirt,Clothing,28558
+47,Dress,Clothing,72746
+48,Gym Dumbbells,Sports,22462
+49,Jeans,Clothing,26106
+50,Headphones,Electronics,67825
+51,Dining Table,Home,20565
+52,Laptop,Electronics,58105
+53,Laptop,Electronics,65300
+54,T-shirt,Clothing,55332
+55,Dress,Clothing,22207
+56,Chair,Home,49076
+57,Bed,Home,25142
+58,Chair,Home,31086
+59,Headphones,Electronics,37191
+60,Yoga Mat,Sports,5542
+61,Bed,Home,72263
+62,Laptop,Electronics,60858
+63,Cricket Bat,Sports,27281
+64,Chair,Home,48442
+65,T-shirt,Clothing,55767
+66,Wardrobe,Home,71938
+67,Wardrobe,Home,12686
+68,T-shirt,Clothing,43462
+69,Wardrobe,Home,25548
+70,Laptop,Electronics,69794
+71,Sofa,Home,76553
+72,Chair,Home,9871
+73,Smartwatch,Electronics,14826
+74,Cricket Bat,Sports,10073
+75,Headphones,Electronics,59485
+76,Dress,Clothing,73998
+77,Sofa,Home,31449
+78,Cricket Bat,Sports,444
+79,Gym Dumbbells,Sports,66751
+80,Sofa,Home,57857
+81,Bed,Home,34524
+82,Sofa,Home,46752
+83,Headphones,Electronics,32930
+84,Headphones,Electronics,79491
+85,Bed,Home,10241
+86,Football,Sports,7448
+87,Jacket,Clothing,42033
+88,Tennis Racket,Sports,76922
+89,Tennis Racket,Sports,77374
+90,Sofa,Home,12211
+91,Chair,Home,61762
+92,Laptop,Electronics,894
+93,Laptop,Electronics,73206
+94,Sneakers,Clothing,58079
+95,Jacket,Clothing,67068
+96,Bed,Home,11550
+97,Wardrobe,Home,11782
+98,Tablet,Electronics,58022
+99,Dress,Clothing,9109
+100,Wardrobe,Home,36864
+101,Headphones,Electronics,23016
+102,Tablet,Electronics,65933
+103,Smartwatch,Electronics,1658
+104,Dining Table,Home,39841
+105,Jeans,Clothing,9017
+106,Yoga Mat,Sports,20311
+107,Wardrobe,Home,50494
+108,Jeans,Clothing,33043
+109,T-shirt,Clothing,54936
+110,Smartphone,Electronics,1660
+111,Cricket Bat,Sports,67854
+112,Football,Sports,45123
+113,Yoga Mat,Sports,47651
+114,Dress,Clothing,52145
+115,Chair,Home,27601
+116,Gym Dumbbells,Sports,28220
+117,Tennis Racket,Sports,67508
+118,Dress,Clothing,60043
+119,Jeans,Clothing,24109
+120,Cricket Bat,Sports,50603
+121,Jeans,Clothing,26142
+122,Dining Table,Home,79994
+123,Chair,Home,54698
+124,Sofa,Home,54953
+125,Cricket Bat,Sports,65566
+126,Headphones,Electronics,8319
+127,Football,Sports,5357
+128,T-shirt,Clothing,79787
+129,Wardrobe,Home,27435
+130,Football,Sports,78248
+131,Headphones,Electronics,42005
+132,Sneakers,Clothing,10231
+133,Sofa,Home,60201
+134,Sofa,Home,2537
+135,Football,Sports,51748
+136,Headphones,Electronics,20330
+137,Tennis Racket,Sports,42139
+138,Chair,Home,35679
+139,Dining Table,Home,74736
+140,Jacket,Clothing,5571
+141,Wardrobe,Home,78571
+142,Cricket Bat,Sports,38249
+143,Sofa,Home,69499
+144,Laptop,Electronics,15467
+145,Sofa,Home,66449
+146,Sneakers,Clothing,9497
+147,Yoga Mat,Sports,42645
+148,Smartwatch,Electronics,19638
+149,Cricket Bat,Sports,41223
+150,Jeans,Clothing,54359
+151,Smartphone,Electronics,293
+152,Smartphone,Electronics,14481
+153,Dining Table,Home,13849
+154,Wardrobe,Home,54709
+155,Headphones,Electronics,66803
+156,Sneakers,Clothing,19649
+157,Smartwatch,Electronics,44078
+158,Chair,Home,19873
+159,Sneakers,Clothing,63178
+160,Tablet,Electronics,25409
+161,Gym Dumbbells,Sports,57653
+162,Sneakers,Clothing,29060
+163,Gym Dumbbells,Sports,42416
+164,Smartphone,Electronics,77565
+165,Jacket,Clothing,11962
+166,Tablet,Electronics,37814
+167,Dress,Clothing,40001
+168,Yoga Mat,Sports,17066
+169,Sofa,Home,51565
+170,Tennis Racket,Sports,28071
+171,Sneakers,Clothing,30482
+172,Gym Dumbbells,Sports,64326
+173,Dining Table,Home,17031
+174,Laptop,Electronics,34612
+175,Tablet,Electronics,2885
+176,Chair,Home,60331
+177,Laptop,Electronics,40032
+178,Tennis Racket,Sports,64965
+179,Dining Table,Home,11713
+180,Tablet,Electronics,61367
+181,Laptop,Electronics,33052
+182,Chair,Home,60607
+183,Jacket,Clothing,62735
+184,Jacket,Clothing,66038
+185,T-shirt,Clothing,26843
+186,T-shirt,Clothing,26333
+187,Jacket,Clothing,44652
+188,Laptop,Electronics,27232
+189,Tennis Racket,Sports,13351
+190,Football,Sports,43987
+191,Dining Table,Home,53658
+192,Wardrobe,Home,60012
+193,Laptop,Electronics,8865
+194,Dining Table,Home,78286
+195,Headphones,Electronics,19292
+196,Dining Table,Home,67830
+197,Sneakers,Clothing,6178
+198,Football,Sports,40719
+199,Chair,Home,28788
+200,Headphones,Electronics,78249
+201,Sofa,Home,78527
+202,Gym Dumbbells,Sports,7034
+203,T-shirt,Clothing,3012
+204,Jeans,Clothing,65076
+205,Wardrobe,Home,14640
+206,Smartwatch,Electronics,73306
+207,Bed,Home,45648
+208,Smartwatch,Electronics,1204
+209,Gym Dumbbells,Sports,8436
+210,Gym Dumbbells,Sports,57444
+211,Tennis Racket,Sports,32309
+212,Sneakers,Clothing,48723
+213,Smartphone,Electronics,380
+214,Jacket,Clothing,44448
+215,Yoga Mat,Sports,73449
+216,Wardrobe,Home,66566
+217,Headphones,Electronics,31445
+218,Cricket Bat,Sports,69356
+219,Laptop,Electronics,48759
+220,Sneakers,Clothing,18933
+221,Chair,Home,31250
+222,Football,Sports,60806
+223,Smartwatch,Electronics,50731
+224,Yoga Mat,Sports,6333
+225,Tennis Racket,Sports,5175
+226,Football,Sports,12935
+227,Smartphone,Electronics,47527
+228,Jacket,Clothing,62965
+229,Gym Dumbbells,Sports,77151
+230,Dining Table,Home,3135
+231,Sofa,Home,40803
+232,Bed,Home,56895
+233,Headphones,Electronics,72123
+234,Smartwatch,Electronics,19020
+235,Cricket Bat,Sports,62143
+236,Tennis Racket,Sports,9700
+237,Smartwatch,Electronics,6180
+238,Yoga Mat,Sports,76432
+239,Tablet,Electronics,826
+240,Sneakers,Clothing,19883
+241,Chair,Home,64489
+242,Jeans,Clothing,19463
+243,Tennis Racket,Sports,41749
+244,Bed,Home,71597
+245,T-shirt,Clothing,44820
+246,Smartwatch,Electronics,31210
+247,Jeans,Clothing,53094
+248,Dining Table,Home,69474
+249,Chair,Home,45595
+250,Sneakers,Clothing,57934
+251,Yoga Mat,Sports,67059
+252,Wardrobe,Home,17155
+253,Jeans,Clothing,30739
+254,Dress,Clothing,70008
+255,Football,Sports,78006
+256,Jeans,Clothing,9817
+257,Headphones,Electronics,40538
+258,Smartwatch,Electronics,32825
+259,Sofa,Home,1828
+260,T-shirt,Clothing,5917
+261,Sneakers,Clothing,49269
+262,Football,Sports,48268
+263,Football,Sports,67834
+264,Sofa,Home,18840
+265,Sneakers,Clothing,10741
+266,Sneakers,Clothing,63558
+267,Football,Sports,23106
+268,Jacket,Clothing,63615
+269,Bed,Home,12563
+270,Sofa,Home,49200
+271,Bed,Home,19557
+272,Smartphone,Electronics,23524
+273,Yoga Mat,Sports,75231
+274,Laptop,Electronics,64021
+275,Football,Sports,41351
+276,Smartphone,Electronics,59722
+277,Jeans,Clothing,66061
+278,Wardrobe,Home,35110
+279,Jeans,Clothing,35092
+280,Football,Sports,11014
+281,Yoga Mat,Sports,47112
+282,Dining Table,Home,35899
+283,Jacket,Clothing,32214
+284,Tennis Racket,Sports,24720
+285,Tablet,Electronics,8590
+286,Tablet,Electronics,48697
+287,Sofa,Home,21714
+288,Jacket,Clothing,39780
+289,Football,Sports,11126
+290,Yoga Mat,Sports,9604
+291,Dress,Clothing,62538
+292,Cricket Bat,Sports,73732
+293,Wardrobe,Home,25743
+294,T-shirt,Clothing,47418
+295,Yoga Mat,Sports,51213
+296,Jacket,Clothing,14760
+297,Smartphone,Electronics,54330
+298,Chair,Home,13600
+299,Sofa,Home,43165
+300,Jacket,Clothing,68091
+301,Tennis Racket,Sports,39547
+302,Yoga Mat,Sports,56348
+303,Jacket,Clothing,24782
+304,Yoga Mat,Sports,71295
+305,Gym Dumbbells,Sports,58182
+306,Bed,Home,41186
+307,Chair,Home,31898
+308,Dining Table,Home,76404
+309,T-shirt,Clothing,22034
+310,Gym Dumbbells,Sports,8831
+311,Tablet,Electronics,17183
+312,Tennis Racket,Sports,42510
+313,Jacket,Clothing,11470
+314,Chair,Home,10030
+315,Gym Dumbbells,Sports,54182
+316,Smartwatch,Electronics,13682
+317,Bed,Home,45243
+318,Bed,Home,22309
+319,Sofa,Home,43718
+320,Smartphone,Electronics,77094
+321,Smartphone,Electronics,549
+322,Cricket Bat,Sports,53738
+323,Sofa,Home,47106
+324,Jacket,Clothing,36659
+325,Bed,Home,75770
+326,Yoga Mat,Sports,13290
+327,Laptop,Electronics,52219
+328,Dress,Clothing,27526
+329,Smartwatch,Electronics,73984
+330,Sofa,Home,44198
+331,Tennis Racket,Sports,22830
+332,Headphones,Electronics,44228
+333,Jacket,Clothing,44302
+334,Dining Table,Home,18555
+335,Smartphone,Electronics,64068
+336,Jeans,Clothing,12278
+337,Jeans,Clothing,21481
+338,Gym Dumbbells,Sports,57409
+339,Tablet,Electronics,9274
+340,Jacket,Clothing,44260
+341,Sneakers,Clothing,68029
+342,Tennis Racket,Sports,45410
+343,Laptop,Electronics,23178
+344,Tablet,Electronics,59431
+345,Football,Sports,11328
+346,Jacket,Clothing,26318
+347,Bed,Home,77131
+348,Dress,Clothing,24364
+349,Tennis Racket,Sports,51109
+350,Laptop,Electronics,60064
+351,Jacket,Clothing,55282
+352,Smartphone,Electronics,67276
+353,Sofa,Home,46583
+354,Cricket Bat,Sports,34612
+355,Cricket Bat,Sports,4434
+356,Bed,Home,59867
+357,Smartwatch,Electronics,24389
+358,Football,Sports,48556
+359,Football,Sports,69711
+360,Gym Dumbbells,Sports,60174
+361,Smartwatch,Electronics,39821
+362,Jacket,Clothing,24456
+363,Cricket Bat,Sports,65097
+364,Smartwatch,Electronics,42218
+365,Bed,Home,29158
+366,Football,Sports,66662
+367,Gym Dumbbells,Sports,13773
+368,Yoga Mat,Sports,67997
+369,Sneakers,Clothing,70021
+370,Tablet,Electronics,43501
+371,Football,Sports,70076
+372,Sofa,Home,32226
+373,Sneakers,Clothing,35042
+374,Laptop,Electronics,20903
+375,Smartphone,Electronics,22423
+376,Sofa,Home,12385
+377,Gym Dumbbells,Sports,4461
+378,Headphones,Electronics,48042
+379,T-shirt,Clothing,12886
+380,Sneakers,Clothing,24678
+381,Laptop,Electronics,50726
+382,Wardrobe,Home,7772
+383,Football,Sports,34242
+384,Dining Table,Home,22160
+385,Chair,Home,8588
+386,Cricket Bat,Sports,37755
+387,Cricket Bat,Sports,15975
+388,Cricket Bat,Sports,33422
+389,Wardrobe,Home,20370
+390,Cricket Bat,Sports,39379
+391,Cricket Bat,Sports,58509
+392,Gym Dumbbells,Sports,22851
+393,Dining Table,Home,51510
+394,Cricket Bat,Sports,58486
+395,Football,Sports,75446
+396,Tablet,Electronics,62399
+397,Yoga Mat,Sports,72255
+398,Bed,Home,7559
+399,Sofa,Home,36381
+400,Smartwatch,Electronics,1457
+401,Yoga Mat,Sports,54153
+402,Cricket Bat,Sports,53394
+403,Bed,Home,64094
+404,Dining Table,Home,35129
+405,Yoga Mat,Sports,3994
+406,Football,Sports,24089
+407,Smartphone,Electronics,31650
+408,Tablet,Electronics,64481
+409,Jacket,Clothing,25414
+410,Jacket,Clothing,29665
+411,Sneakers,Clothing,61414
+412,Jacket,Clothing,70626
+413,Yoga Mat,Sports,68829
+414,Dress,Clothing,57416
+415,Laptop,Electronics,67920
+416,Smartwatch,Electronics,55450
+417,Wardrobe,Home,1902
+418,Smartphone,Electronics,25569
+419,Tablet,Electronics,23477
+420,Chair,Home,53587
+421,Bed,Home,34672
+422,Chair,Home,9861
+423,Sneakers,Clothing,55196
+424,Football,Sports,38606
+425,Yoga Mat,Sports,32922
+426,Laptop,Electronics,39857
+427,T-shirt,Clothing,60560
+428,Smartphone,Electronics,45823
+429,Wardrobe,Home,4656
+430,Cricket Bat,Sports,22429
+431,Yoga Mat,Sports,43479
+432,Jeans,Clothing,22601
+433,Wardrobe,Home,53465
+434,Sofa,Home,71007
+435,Jacket,Clothing,25866
+436,Tablet,Electronics,11922
+437,Football,Sports,69499
+438,Football,Sports,54776
+439,Dress,Clothing,53394
+440,Dining Table,Home,77016
+441,Headphones,Electronics,61146
+442,Football,Sports,370
+443,Dining Table,Home,9056
+444,Smartwatch,Electronics,45756
+445,Tennis Racket,Sports,26002
+446,Dress,Clothing,24332
+447,Tablet,Electronics,48937
+448,Football,Sports,21613
+449,Cricket Bat,Sports,69536
+450,Chair,Home,79202
+451,Jacket,Clothing,74653
+452,Chair,Home,5796
+453,Smartwatch,Electronics,22359
+454,Jacket,Clothing,40004
+455,Football,Sports,49786
+456,Laptop,Electronics,31925
+457,Gym Dumbbells,Sports,49118
+458,Gym Dumbbells,Sports,30603
+459,Bed,Home,68524
+460,Football,Sports,45232
+461,Yoga Mat,Sports,65066
+462,Bed,Home,31536
+463,Wardrobe,Home,14532
+464,T-shirt,Clothing,12290
+465,Jacket,Clothing,350
+466,Smartphone,Electronics,48929
+467,Smartphone,Electronics,6953
+468,Dining Table,Home,16198
+469,Football,Sports,38046
+470,Dress,Clothing,75050
+471,Headphones,Electronics,31918
+472,Wardrobe,Home,20317
+473,Wardrobe,Home,17576
+474,Football,Sports,77786
+475,Smartwatch,Electronics,6402
+476,Sofa,Home,72402
+477,Chair,Home,46843
+478,Tablet,Electronics,79485
+479,Tablet,Electronics,9784
+480,Laptop,Electronics,79095
+481,Smartwatch,Electronics,70803
+482,Football,Sports,32089
+483,Sneakers,Clothing,6525
+484,Tablet,Electronics,29831
+485,Dress,Clothing,23545
+486,Chair,Home,55411
+487,Jeans,Clothing,73644
+488,Smartphone,Electronics,63622
+489,Cricket Bat,Sports,67058
+490,Football,Sports,38243
+491,Sneakers,Clothing,58718
+492,Dress,Clothing,36729
+493,Chair,Home,22234
+494,Yoga Mat,Sports,24543
+495,Sofa,Home,60868
+496,Jeans,Clothing,28230
+497,Cricket Bat,Sports,69219
+498,Cricket Bat,Sports,42577
+499,Wardrobe,Home,45332
+500,Chair,Home,17699
+501,Wardrobe,Home,60395
+502,Headphones,Electronics,73577
+503,Tablet,Electronics,19358
+504,Football,Sports,59171
+505,Jacket,Clothing,51547
+506,Laptop,Electronics,71300
+507,Football,Sports,77523
+508,T-shirt,Clothing,52505
+509,Laptop,Electronics,44750
+510,Football,Sports,6989
+511,T-shirt,Clothing,31627
+512,Jeans,Clothing,3460
+513,Jeans,Clothing,11501
+514,Chair,Home,58908
+515,Football,Sports,35255
+516,Dress,Clothing,35586
+517,Tennis Racket,Sports,48456
+518,T-shirt,Clothing,73749
+519,Jeans,Clothing,1669
+520,Dining Table,Home,75912
+521,Sneakers,Clothing,70513
+522,Bed,Home,28198
+523,Sofa,Home,47149
+524,Sofa,Home,13310
+525,Wardrobe,Home,27116
+526,Smartwatch,Electronics,25298
+527,Dining Table,Home,69503
+528,Sofa,Home,21184
+529,Yoga Mat,Sports,48478
+530,Dining Table,Home,42820
+531,Laptop,Electronics,30367
+532,Jeans,Clothing,35116
+533,Sneakers,Clothing,51372
+534,Gym Dumbbells,Sports,73925
+535,Jeans,Clothing,19044
+536,Cricket Bat,Sports,66974
+537,Tablet,Electronics,52510
+538,Smartwatch,Electronics,29814
+539,Smartphone,Electronics,27414
+540,Sofa,Home,69734
+541,Jeans,Clothing,79516
+542,Yoga Mat,Sports,8584
+543,Laptop,Electronics,4118
+544,Gym Dumbbells,Sports,59933
+545,Cricket Bat,Sports,56759
+546,Headphones,Electronics,77124
+547,Wardrobe,Home,33176
+548,Jacket,Clothing,36228
+549,Tennis Racket,Sports,6598
+550,Headphones,Electronics,60165
+551,Tablet,Electronics,54729
+552,Dining Table,Home,5996
+553,Cricket Bat,Sports,31396
+554,Sofa,Home,55168
+555,Wardrobe,Home,34305
+556,Yoga Mat,Sports,16817
+557,Football,Sports,8244
+558,Laptop,Electronics,8401
+559,Jeans,Clothing,29894
+560,Dining Table,Home,54905
+561,Tablet,Electronics,3808
+562,Cricket Bat,Sports,54855
+563,Dining Table,Home,60428
+564,Football,Sports,44872
+565,Cricket Bat,Sports,3704
+566,Yoga Mat,Sports,65964
+567,Wardrobe,Home,62127
+568,Cricket Bat,Sports,39081
+569,Chair,Home,71802
+570,Yoga Mat,Sports,2128
+571,Sneakers,Clothing,60762
+572,Tennis Racket,Sports,57040
+573,Yoga Mat,Sports,57633
+574,Smartphone,Electronics,73529
+575,Football,Sports,75126
+576,Tennis Racket,Sports,67541
+577,Jacket,Clothing,37323
+578,Gym Dumbbells,Sports,13593
+579,Jacket,Clothing,56422
+580,Sofa,Home,363
+581,Wardrobe,Home,25898
+582,Smartwatch,Electronics,71446
+583,Chair,Home,66009
+584,Bed,Home,79661
+585,Headphones,Electronics,9806
+586,Laptop,Electronics,34712
+587,Sofa,Home,12622
+588,Headphones,Electronics,77415
+589,Smartwatch,Electronics,47961
+590,Sofa,Home,7202
+591,Football,Sports,15090
+592,Chair,Home,7862
+593,Sneakers,Clothing,33937
+594,Jeans,Clothing,6377
+595,Sneakers,Clothing,70647
+596,Sofa,Home,15609
+597,Jeans,Clothing,19136
+598,Jacket,Clothing,32157
+599,Smartwatch,Electronics,70077
+600,T-shirt,Clothing,27574
+601,Smartphone,Electronics,7106
+602,T-shirt,Clothing,25431
+603,Smartwatch,Electronics,60526
+604,Gym Dumbbells,Sports,65908
+605,Yoga Mat,Sports,19119
+606,Dining Table,Home,64270
+607,Jacket,Clothing,72063
+608,Cricket Bat,Sports,15450
+609,Bed,Home,28011
+610,Jeans,Clothing,54173
+611,Smartwatch,Electronics,59464
+612,Smartphone,Electronics,76075
+613,Headphones,Electronics,39696
+614,Football,Sports,26662
+615,Cricket Bat,Sports,71474
+616,Laptop,Electronics,71534
+617,Laptop,Electronics,42288
+618,Sofa,Home,18066
+619,Laptop,Electronics,1924
+620,Bed,Home,33679
+621,Sofa,Home,27500
+622,Cricket Bat,Sports,63243
+623,Gym Dumbbells,Sports,53265
+624,Sneakers,Clothing,39299
+625,Dining Table,Home,57764
+626,Smartwatch,Electronics,10019
+627,Dining Table,Home,5786
+628,Dining Table,Home,13768
+629,Wardrobe,Home,15987
+630,Tennis Racket,Sports,35984
+631,Laptop,Electronics,62478
+632,Sofa,Home,38573
+633,Tennis Racket,Sports,31418
+634,Sofa,Home,17703
+635,Chair,Home,56306
+636,Dress,Clothing,59809
+637,Jeans,Clothing,74120
+638,Bed,Home,3407
+639,Yoga Mat,Sports,55912
+640,Bed,Home,29827
+641,Bed,Home,77246
+642,Jacket,Clothing,27492
+643,Jeans,Clothing,55003
+644,Smartphone,Electronics,55616
+645,Sneakers,Clothing,62159
+646,Headphones,Electronics,22588
+647,Jacket,Clothing,15049
+648,Yoga Mat,Sports,53597
+649,Football,Sports,2155
+650,Smartwatch,Electronics,21957
+651,Sneakers,Clothing,7775
+652,Football,Sports,1345
+653,Yoga Mat,Sports,78747
+654,Jacket,Clothing,20952
+655,Smartwatch,Electronics,21479
+656,Jeans,Clothing,11606
+657,Jacket,Clothing,70726
+658,Jeans,Clothing,50516
+659,Jeans,Clothing,14843
+660,Jacket,Clothing,58773
+661,Smartphone,Electronics,25176
+662,Yoga Mat,Sports,68403
+663,Bed,Home,72045
+664,Tablet,Electronics,31556
+665,Sneakers,Clothing,31182
+666,Dress,Clothing,64741
+667,Cricket Bat,Sports,67307
+668,Wardrobe,Home,42205
+669,Chair,Home,79130
+670,Headphones,Electronics,31380
+671,Jeans,Clothing,7031
+672,Gym Dumbbells,Sports,65294
+673,Chair,Home,17005
+674,Tennis Racket,Sports,26932
+675,Sofa,Home,31004
+676,Jacket,Clothing,21651
+677,Bed,Home,35241
+678,T-shirt,Clothing,29641
+679,Dining Table,Home,24711
+680,Smartwatch,Electronics,78692
+681,Tablet,Electronics,51576
+682,Headphones,Electronics,28326
+683,Football,Sports,64248
+684,Jacket,Clothing,4541
+685,Gym Dumbbells,Sports,75894
+686,Yoga Mat,Sports,8178
+687,Dress,Clothing,67465
+688,Tablet,Electronics,4447
+689,Jeans,Clothing,58182
+690,Tablet,Electronics,34334
+691,Jacket,Clothing,31221
+692,Tablet,Electronics,28202
+693,Chair,Home,59922
+694,Headphones,Electronics,69558
+695,Laptop,Electronics,23713
+696,Wardrobe,Home,35104
+697,Jeans,Clothing,9196
+698,Dress,Clothing,25207
+699,Tennis Racket,Sports,53949
+700,Headphones,Electronics,43352
+701,Bed,Home,78636
+702,Dress,Clothing,32418
+703,Dining Table,Home,32294
+704,Football,Sports,55335
+705,Dress,Clothing,72778
+706,Gym Dumbbells,Sports,69716
+707,Jeans,Clothing,3712
+708,Dress,Clothing,53596
+709,Bed,Home,47209
+710,Bed,Home,29549
+711,Smartwatch,Electronics,30644
+712,Cricket Bat,Sports,69401
+713,Football,Sports,37143
+714,Sofa,Home,74027
+715,Tennis Racket,Sports,30180
+716,Sneakers,Clothing,22783
+717,Laptop,Electronics,13236
+718,Jeans,Clothing,63325
+719,Dress,Clothing,74667
+720,Jacket,Clothing,26626
+721,Headphones,Electronics,28433
+722,Smartphone,Electronics,27641
+723,Jeans,Clothing,57623
+724,Smartwatch,Electronics,72799
+725,Dress,Clothing,61515
+726,Sneakers,Clothing,12984
+727,Wardrobe,Home,52263
+728,Bed,Home,61370
+729,Jacket,Clothing,7415
+730,T-shirt,Clothing,48867
+731,Tablet,Electronics,47380
+732,Laptop,Electronics,34775
+733,Sneakers,Clothing,2072
+734,Sofa,Home,26688
+735,Tablet,Electronics,77266
+736,Jacket,Clothing,74728
+737,Dress,Clothing,22064
+738,Football,Sports,10488
+739,Wardrobe,Home,40856
+740,Chair,Home,69194
+741,Chair,Home,11166
+742,Gym Dumbbells,Sports,47241
+743,Bed,Home,56825
+744,T-shirt,Clothing,61582
+745,Sofa,Home,43062
+746,Sofa,Home,40384
+747,Cricket Bat,Sports,9372
+748,Football,Sports,51042
+749,Dining Table,Home,77987
+750,Football,Sports,68134
+751,Yoga Mat,Sports,3318
+752,Smartwatch,Electronics,18025
+753,Yoga Mat,Sports,46766
+754,Yoga Mat,Sports,28401
+755,Smartwatch,Electronics,42674
+756,Dress,Clothing,6488
+757,Headphones,Electronics,72234
+758,Laptop,Electronics,59687
+759,Jacket,Clothing,71546
+760,Sofa,Home,28743
+761,Yoga Mat,Sports,40638
+762,Tablet,Electronics,75688
+763,Cricket Bat,Sports,72698
+764,Smartwatch,Electronics,23925
+765,Smartphone,Electronics,53659
+766,Sofa,Home,19661
+767,Tennis Racket,Sports,13542
+768,Wardrobe,Home,19498
+769,Football,Sports,21533
+770,Jeans,Clothing,35367
+771,Headphones,Electronics,46003
+772,T-shirt,Clothing,5912
+773,Tennis Racket,Sports,15435
+774,Sneakers,Clothing,25486
+775,Laptop,Electronics,57579
+776,Sneakers,Clothing,48912
+777,Laptop,Electronics,19599
+778,Sofa,Home,20693
+779,Sofa,Home,79916
+780,Dress,Clothing,16847
+781,Cricket Bat,Sports,42188
+782,Tennis Racket,Sports,43929
+783,Laptop,Electronics,22567
+784,Dress,Clothing,59364
+785,Laptop,Electronics,41368
+786,Tennis Racket,Sports,9297
+787,Wardrobe,Home,18639
+788,Cricket Bat,Sports,77980
+789,Chair,Home,72305
+790,Cricket Bat,Sports,38946
+791,T-shirt,Clothing,8102
+792,Yoga Mat,Sports,53658
+793,Wardrobe,Home,33706
+794,Smartwatch,Electronics,21308
+795,Smartwatch,Electronics,44145
+796,Sofa,Home,31620
+797,Sofa,Home,55587
+798,Jeans,Clothing,6674
+799,Sneakers,Clothing,62596
+800,Yoga Mat,Sports,20236
+801,Chair,Home,46512
+802,Tennis Racket,Sports,57154
+803,Wardrobe,Home,79650
+804,Dining Table,Home,38696
+805,Sneakers,Clothing,64157
+806,Dress,Clothing,77078
+807,Smartphone,Electronics,13407
+808,Gym Dumbbells,Sports,79303
+809,Gym Dumbbells,Sports,43515
+810,Jacket,Clothing,6573
+811,Dining Table,Home,12867
+812,Dress,Clothing,24630
+813,Smartphone,Electronics,64614
+814,Wardrobe,Home,31388
+815,Headphones,Electronics,74821
+816,Gym Dumbbells,Sports,22352
+817,Laptop,Electronics,19871
+818,Smartphone,Electronics,21375
+819,Jeans,Clothing,19413
+820,Chair,Home,58612
+821,Sneakers,Clothing,73262
+822,Jeans,Clothing,9771
+823,Laptop,Electronics,67043
+824,Smartwatch,Electronics,78836
+825,Jacket,Clothing,24325
+826,Sofa,Home,35625
+827,Dress,Clothing,75436
+828,Dining Table,Home,13808
+829,Dress,Clothing,23202
+830,Sofa,Home,3686
+831,Cricket Bat,Sports,44601
+832,Football,Sports,41628
+833,Jeans,Clothing,61201
+834,Football,Sports,34837
+835,Tablet,Electronics,14006
+836,Dress,Clothing,15106
+837,Jeans,Clothing,43791
+838,Chair,Home,58401
+839,Chair,Home,35250
+840,Smartwatch,Electronics,34740
+841,Laptop,Electronics,56170
+842,Football,Sports,57868
+843,Tennis Racket,Sports,37939
+844,Tablet,Electronics,19337
+845,Smartwatch,Electronics,25112
+846,Sneakers,Clothing,38956
+847,Bed,Home,43543
+848,Gym Dumbbells,Sports,40999
+849,Dress,Clothing,1868
+850,Wardrobe,Home,48107
+851,Jacket,Clothing,61166
+852,Sofa,Home,50011
+853,Cricket Bat,Sports,5477
+854,T-shirt,Clothing,31741
+855,Cricket Bat,Sports,8362
+856,Jacket,Clothing,10248
+857,Headphones,Electronics,62103
+858,Tablet,Electronics,31907
+859,Chair,Home,25395
+860,Dining Table,Home,29423
+861,Bed,Home,62543
+862,Smartwatch,Electronics,79130
+863,T-shirt,Clothing,78157
+864,Dress,Clothing,67934
+865,Cricket Bat,Sports,45656
+866,Sneakers,Clothing,39560
+867,Dress,Clothing,39651
+868,Chair,Home,21095
+869,Headphones,Electronics,54293
+870,Smartphone,Electronics,52786
+871,Bed,Home,17704
+872,Cricket Bat,Sports,1356
+873,Gym Dumbbells,Sports,23250
+874,T-shirt,Clothing,35124
+875,Sneakers,Clothing,4762
+876,Sneakers,Clothing,29764
+877,Dining Table,Home,56644
+878,Bed,Home,31994
+879,Jeans,Clothing,76619
+880,Jacket,Clothing,1076
+881,Tablet,Electronics,16470
+882,Sofa,Home,11423
+883,Smartwatch,Electronics,4314
+884,Gym Dumbbells,Sports,65080
+885,Yoga Mat,Sports,52840
+886,Tablet,Electronics,23289
+887,Dress,Clothing,37954
+888,Dress,Clothing,38957
+889,Laptop,Electronics,15848
+890,Chair,Home,71871
+891,Dining Table,Home,42596
+892,Headphones,Electronics,27409
+893,Chair,Home,63194
+894,Chair,Home,6160
+895,Jeans,Clothing,65116
+896,Dining Table,Home,53909
+897,Laptop,Electronics,47941
+898,Tablet,Electronics,58671
+899,Smartphone,Electronics,14692
+900,Smartphone,Electronics,74227
+901,Smartwatch,Electronics,58186
+902,Sofa,Home,5928
+903,Football,Sports,62916
+904,Sneakers,Clothing,20182
+905,Cricket Bat,Sports,14184
+906,Wardrobe,Home,41103
+907,Smartphone,Electronics,42163
+908,Cricket Bat,Sports,24147
+909,Tennis Racket,Sports,56265
+910,Gym Dumbbells,Sports,58416
+911,Sneakers,Clothing,18397
+912,Dining Table,Home,32365
+913,Headphones,Electronics,43542
+914,Dress,Clothing,15828
+915,Football,Sports,41234
+916,T-shirt,Clothing,15500
+917,Tennis Racket,Sports,63416
+918,Bed,Home,10653
+919,Wardrobe,Home,73697
+920,Yoga Mat,Sports,62662
+921,Wardrobe,Home,16627
+922,Headphones,Electronics,73278
+923,Gym Dumbbells,Sports,63605
+924,Chair,Home,64864
+925,Sofa,Home,47991
+926,Sofa,Home,30277
+927,Tennis Racket,Sports,74480
+928,Laptop,Electronics,6874
+929,T-shirt,Clothing,280
+930,Cricket Bat,Sports,52747
+931,Bed,Home,5826
+932,T-shirt,Clothing,51966
+933,Bed,Home,47056
+934,Dining Table,Home,5504
+935,Smartwatch,Electronics,19922
+936,Bed,Home,78777
+937,Headphones,Electronics,12411
+938,Cricket Bat,Sports,10516
+939,Tablet,Electronics,74411
+940,Laptop,Electronics,47106
+941,Gym Dumbbells,Sports,19581
+942,Jacket,Clothing,19885
+943,Football,Sports,65328
+944,Dress,Clothing,64514
+945,Jacket,Clothing,70987
+946,Tennis Racket,Sports,6448
+947,Jacket,Clothing,38179
+948,Yoga Mat,Sports,1196
+949,Gym Dumbbells,Sports,40957
+950,Smartwatch,Electronics,15931
+951,Jacket,Clothing,50209
+952,Gym Dumbbells,Sports,35866
+953,Gym Dumbbells,Sports,57692
+954,Dress,Clothing,7844
+955,Dining Table,Home,12351
+956,Jacket,Clothing,41133
+957,Sneakers,Clothing,28553
+958,Smartwatch,Electronics,14358
+959,T-shirt,Clothing,5010
+960,Sofa,Home,5396
+961,Wardrobe,Home,48340
+962,Dress,Clothing,7393
+963,Dress,Clothing,44551
+964,Cricket Bat,Sports,40341
+965,Gym Dumbbells,Sports,19142
+966,Jeans,Clothing,41827
+967,Chair,Home,33692
+968,Gym Dumbbells,Sports,62269
+969,Headphones,Electronics,38299
+970,Dress,Clothing,22362
+971,Dress,Clothing,19276
+972,Headphones,Electronics,61894
+973,Headphones,Electronics,17295
+974,Jacket,Clothing,29928
+975,Cricket Bat,Sports,10136
+976,Jeans,Clothing,51509
+977,Dress,Clothing,28665
+978,Tablet,Electronics,37725
+979,Laptop,Electronics,48413
+980,Smartphone,Electronics,3034
+981,Headphones,Electronics,66981
+982,Jeans,Clothing,42202
+983,Yoga Mat,Sports,72205
+984,Yoga Mat,Sports,41416
+985,Wardrobe,Home,1969
+986,Gym Dumbbells,Sports,74101
+987,Sneakers,Clothing,13971
+988,Football,Sports,68080
+989,Sofa,Home,65001
+990,Tablet,Electronics,68770
+991,Sofa,Home,61097
+992,Sneakers,Clothing,43731
+993,Bed,Home,40059
+994,Sofa,Home,5398
+995,Gym Dumbbells,Sports,57532
+996,Dress,Clothing,38384
+997,Football,Sports,56773
+998,Football,Sports,68656
+999,Sneakers,Clothing,76683
+1000,T-shirt,Clothing,48218
+1001,Cricket Bat,Sports,64856
+1002,Football,Sports,57024
+1003,Wardrobe,Home,31084
+1004,Tennis Racket,Sports,50254
+1005,Sofa,Home,56042
+1006,Wardrobe,Home,6734
+1007,Wardrobe,Home,40525
+1008,Chair,Home,78601
+1009,Football,Sports,24073
+1010,Sofa,Home,59585
+1011,Cricket Bat,Sports,23121
+1012,Sneakers,Clothing,29965
+1013,Sofa,Home,63744
+1014,Football,Sports,22437
+1015,Tennis Racket,Sports,34863
+1016,Wardrobe,Home,44996
+1017,Football,Sports,7963
+1018,Dress,Clothing,52537
+1019,Bed,Home,57217
+1020,Tablet,Electronics,23597
+1021,Tennis Racket,Sports,11518
+1022,Chair,Home,37415
+1023,Sofa,Home,22684
+1024,Dining Table,Home,31526
+1025,Sofa,Home,44532
+1026,Wardrobe,Home,29133
+1027,Sneakers,Clothing,72908
+1028,Tablet,Electronics,19673
+1029,Smartwatch,Electronics,66857
+1030,Smartwatch,Electronics,64401
+1031,Laptop,Electronics,39154
+1032,Dining Table,Home,21494
+1033,Smartwatch,Electronics,34941
+1034,Dress,Clothing,44614
+1035,Dining Table,Home,62884
+1036,Laptop,Electronics,1823
+1037,Bed,Home,23660
+1038,Bed,Home,23764
+1039,Smartwatch,Electronics,49703
+1040,Jacket,Clothing,27829
+1041,Jeans,Clothing,76851
+1042,Gym Dumbbells,Sports,44712
+1043,Jeans,Clothing,53806
+1044,Bed,Home,17970
+1045,Headphones,Electronics,53107
+1046,Smartphone,Electronics,63650
+1047,Cricket Bat,Sports,55830
+1048,Tennis Racket,Sports,8169
+1049,Jeans,Clothing,300
+1050,Dress,Clothing,63564
+1051,Tablet,Electronics,34562
+1052,Dress,Clothing,53560
+1053,Dress,Clothing,17085
+1054,Jacket,Clothing,3810
+1055,Bed,Home,69444
+1056,Tablet,Electronics,48230
+1057,Jacket,Clothing,5609
+1058,Bed,Home,23000
+1059,Laptop,Electronics,34436
+1060,Jeans,Clothing,37234
+1061,Tennis Racket,Sports,36388
+1062,Gym Dumbbells,Sports,76667
+1063,Dining Table,Home,29115
+1064,Laptop,Electronics,58207
+1065,Wardrobe,Home,66718
+1066,Football,Sports,21541
+1067,Dining Table,Home,36497
+1068,Wardrobe,Home,34535
+1069,Tennis Racket,Sports,21214
+1070,Smartwatch,Electronics,67938
+1071,Laptop,Electronics,78376
+1072,Yoga Mat,Sports,13063
+1073,Headphones,Electronics,70344
+1074,Tablet,Electronics,76408
+1075,Jeans,Clothing,75165
+1076,Dress,Clothing,41745
+1077,Dress,Clothing,38566
+1078,Smartwatch,Electronics,37798
+1079,Wardrobe,Home,59185
+1080,Headphones,Electronics,63555
+1081,Bed,Home,54002
+1082,Bed,Home,44462
+1083,Football,Sports,50276
+1084,Dining Table,Home,71001
+1085,Smartphone,Electronics,20051
+1086,Headphones,Electronics,39133
+1087,Tennis Racket,Sports,23947
+1088,Jacket,Clothing,7515
+1089,Dining Table,Home,19981
+1090,Dress,Clothing,71072
+1091,Smartwatch,Electronics,79676
+1092,Cricket Bat,Sports,11089
+1093,Jeans,Clothing,1711
+1094,Smartphone,Electronics,11422
+1095,Chair,Home,4129
+1096,Sofa,Home,51623
+1097,Tennis Racket,Sports,14507
+1098,Laptop,Electronics,28141
+1099,Dining Table,Home,12702
+1100,Laptop,Electronics,49745
+1101,Gym Dumbbells,Sports,57428
+1102,Sneakers,Clothing,31256
+1103,Tablet,Electronics,40713
+1104,Sneakers,Clothing,60597
+1105,Football,Sports,27587
+1106,Chair,Home,46766
+1107,Wardrobe,Home,28082
+1108,Dining Table,Home,6176
+1109,T-shirt,Clothing,32812
+1110,Jeans,Clothing,7973
+1111,Sofa,Home,50947
+1112,Chair,Home,47284
+1113,Jacket,Clothing,52203
+1114,T-shirt,Clothing,3554
+1115,Tablet,Electronics,62809
+1116,Tablet,Electronics,78974
+1117,Dress,Clothing,19183
+1118,Dress,Clothing,69559
+1119,Dining Table,Home,60303
+1120,Smartwatch,Electronics,34258
+1121,Tennis Racket,Sports,64452
+1122,Bed,Home,18958
+1123,Headphones,Electronics,22009
+1124,Sofa,Home,34742
+1125,Tablet,Electronics,13583
+1126,Dress,Clothing,37959
+1127,Bed,Home,64721
+1128,Smartphone,Electronics,76146
+1129,Cricket Bat,Sports,6683
+1130,Dining Table,Home,42262
+1131,Sneakers,Clothing,64060
+1132,Sofa,Home,10487
+1133,Yoga Mat,Sports,65650
+1134,Bed,Home,30361
+1135,Laptop,Electronics,34696
+1136,Wardrobe,Home,39819
+1137,Wardrobe,Home,72980
+1138,Football,Sports,63366
+1139,Tennis Racket,Sports,23631
+1140,Wardrobe,Home,21736
+1141,Yoga Mat,Sports,15625
+1142,Tennis Racket,Sports,59561
+1143,T-shirt,Clothing,30880
+1144,Sneakers,Clothing,41878
+1145,Dress,Clothing,22450
+1146,Smartwatch,Electronics,60041
+1147,Smartphone,Electronics,19855
+1148,Chair,Home,38702
+1149,Cricket Bat,Sports,27827
+1150,Tablet,Electronics,14327
+1151,Yoga Mat,Sports,55171
+1152,Gym Dumbbells,Sports,14039
+1153,Smartwatch,Electronics,69976
+1154,Sneakers,Clothing,43563
+1155,Dining Table,Home,66694
+1156,Gym Dumbbells,Sports,18237
+1157,Smartwatch,Electronics,71776
+1158,Dining Table,Home,8665
+1159,Sofa,Home,50263
+1160,Dress,Clothing,79758
+1161,Headphones,Electronics,63118
+1162,Jacket,Clothing,50438
+1163,Laptop,Electronics,40123
+1164,Jacket,Clothing,64896
+1165,T-shirt,Clothing,57083
+1166,Smartwatch,Electronics,12690
+1167,Smartphone,Electronics,8438
+1168,Cricket Bat,Sports,34175
+1169,Football,Sports,65549
+1170,Smartwatch,Electronics,73221
+1171,Smartphone,Electronics,63729
+1172,Chair,Home,23509
+1173,Wardrobe,Home,22112
+1174,Jacket,Clothing,74572
+1175,Smartwatch,Electronics,48328
+1176,Dress,Clothing,63899
+1177,Wardrobe,Home,12690
+1178,Wardrobe,Home,28197
+1179,Headphones,Electronics,2459
+1180,Wardrobe,Home,13018
+1181,Football,Sports,43156
+1182,Laptop,Electronics,51028
+1183,Jacket,Clothing,64444
+1184,Wardrobe,Home,14859
+1185,Tablet,Electronics,66966
+1186,Gym Dumbbells,Sports,65456
+1187,Football,Sports,51183
+1188,Sneakers,Clothing,78615
+1189,Dress,Clothing,13658
+1190,Smartphone,Electronics,3314
+1191,Cricket Bat,Sports,72732
+1192,T-shirt,Clothing,49463
+1193,Wardrobe,Home,66892
+1194,Football,Sports,74817
+1195,Headphones,Electronics,26187
+1196,Football,Sports,48036
+1197,Cricket Bat,Sports,61880
+1198,Football,Sports,7552
+1199,Tablet,Electronics,50986
+1200,Yoga Mat,Sports,25877
+1201,Smartwatch,Electronics,21762
+1202,Dress,Clothing,57303
+1203,Gym Dumbbells,Sports,27323
+1204,Dining Table,Home,70834
+1205,Tablet,Electronics,9008
+1206,Jeans,Clothing,79865
+1207,Tablet,Electronics,13848
+1208,Sofa,Home,78725
+1209,Sneakers,Clothing,16236
+1210,Bed,Home,16273
+1211,Gym Dumbbells,Sports,46258
+1212,Cricket Bat,Sports,8141
+1213,Tablet,Electronics,27514
+1214,T-shirt,Clothing,75862
+1215,Smartwatch,Electronics,27406
+1216,Dress,Clothing,64570
+1217,Jeans,Clothing,32301
+1218,Sneakers,Clothing,17484
+1219,Jacket,Clothing,60575
+1220,Headphones,Electronics,2771
+1221,Yoga Mat,Sports,54787
+1222,Cricket Bat,Sports,16936
+1223,Jacket,Clothing,76093
+1224,Laptop,Electronics,30435
+1225,Smartphone,Electronics,24835
+1226,Dress,Clothing,55454
+1227,Bed,Home,55149
+1228,Football,Sports,1912
+1229,Tablet,Electronics,62124
+1230,Bed,Home,506
+1231,T-shirt,Clothing,33529
+1232,Jeans,Clothing,53127
+1233,Jacket,Clothing,17787
+1234,Dress,Clothing,33357
+1235,Football,Sports,51935
+1236,Cricket Bat,Sports,624
+1237,Jacket,Clothing,43921
+1238,Yoga Mat,Sports,72729
+1239,Headphones,Electronics,32262
+1240,T-shirt,Clothing,24816
+1241,Jeans,Clothing,26772
+1242,Sofa,Home,53649
+1243,Bed,Home,64690
+1244,Yoga Mat,Sports,14081
+1245,Chair,Home,78227
+1246,Jacket,Clothing,36216
+1247,Smartphone,Electronics,32587
+1248,Cricket Bat,Sports,65914
+1249,Laptop,Electronics,50218
+1250,Football,Sports,4691
+1251,Jeans,Clothing,33765
+1252,Dress,Clothing,73889
+1253,Bed,Home,41369
+1254,Tablet,Electronics,27615
+1255,Bed,Home,76495
+1256,Dining Table,Home,74671
+1257,Dining Table,Home,78879
+1258,Cricket Bat,Sports,71756
+1259,Sofa,Home,59529
+1260,Yoga Mat,Sports,61431
+1261,Smartwatch,Electronics,70154
+1262,Football,Sports,19303
+1263,Football,Sports,25283
+1264,Dress,Clothing,5246
+1265,Smartphone,Electronics,2307
+1266,Yoga Mat,Sports,54944
+1267,Laptop,Electronics,30994
+1268,Football,Sports,8993
+1269,Jeans,Clothing,34066
+1270,Tennis Racket,Sports,56038
+1271,Sneakers,Clothing,21033
+1272,Bed,Home,35089
+1273,Jacket,Clothing,30490
+1274,Smartphone,Electronics,62070
+1275,Chair,Home,41236
+1276,Cricket Bat,Sports,48096
+1277,Sofa,Home,46393
+1278,Smartwatch,Electronics,29902
+1279,Tennis Racket,Sports,59768
+1280,Smartwatch,Electronics,8087
+1281,Laptop,Electronics,34349
+1282,T-shirt,Clothing,657
+1283,Sneakers,Clothing,54968
+1284,Football,Sports,1158
+1285,Gym Dumbbells,Sports,56237
+1286,Smartphone,Electronics,34366
+1287,Sneakers,Clothing,10237
+1288,T-shirt,Clothing,73749
+1289,Tablet,Electronics,33521
+1290,Jacket,Clothing,25136
+1291,Dining Table,Home,46441
+1292,Yoga Mat,Sports,35201
+1293,Dress,Clothing,73362
+1294,T-shirt,Clothing,6770
+1295,Headphones,Electronics,5913
+1296,Cricket Bat,Sports,29445
+1297,Jacket,Clothing,62130
+1298,Yoga Mat,Sports,48642
+1299,Laptop,Electronics,59445
+1300,Bed,Home,1712
+1301,Cricket Bat,Sports,44033
+1302,Wardrobe,Home,10628
+1303,Laptop,Electronics,60463
+1304,Football,Sports,38755
+1305,Dress,Clothing,29786
+1306,Dining Table,Home,57760
+1307,Cricket Bat,Sports,20712
+1308,Cricket Bat,Sports,60456
+1309,Chair,Home,3775
+1310,Dining Table,Home,25038
+1311,Yoga Mat,Sports,73213
+1312,Dress,Clothing,65794
+1313,Football,Sports,22070
+1314,T-shirt,Clothing,74009
+1315,Jacket,Clothing,12958
+1316,Smartphone,Electronics,35803
+1317,T-shirt,Clothing,26455
+1318,Smartphone,Electronics,11418
+1319,Bed,Home,30218
+1320,Sofa,Home,30962
+1321,Tablet,Electronics,39766
+1322,Sneakers,Clothing,17564
+1323,Dining Table,Home,61108
+1324,Yoga Mat,Sports,54539
+1325,Sneakers,Clothing,75033
+1326,Smartwatch,Electronics,79210
+1327,Headphones,Electronics,44886
+1328,Sneakers,Clothing,12315
+1329,Cricket Bat,Sports,22129
+1330,Tennis Racket,Sports,9543
+1331,T-shirt,Clothing,37744
+1332,Smartwatch,Electronics,41402
+1333,Sneakers,Clothing,19035
+1334,Dress,Clothing,46109
+1335,Sofa,Home,24343
+1336,Dress,Clothing,40219
+1337,Cricket Bat,Sports,30439
+1338,Bed,Home,43210
+1339,Jacket,Clothing,52549
+1340,Dining Table,Home,21128
+1341,Smartwatch,Electronics,30034
+1342,Smartwatch,Electronics,33004
+1343,Tablet,Electronics,28502
+1344,Tablet,Electronics,77291
+1345,Smartphone,Electronics,59163
+1346,Chair,Home,58736
+1347,Bed,Home,53776
+1348,Football,Sports,59612
+1349,Dress,Clothing,72840
+1350,T-shirt,Clothing,68492
+1351,Chair,Home,54885
+1352,Laptop,Electronics,3873
+1353,Laptop,Electronics,8239
+1354,Smartphone,Electronics,18644
+1355,Jacket,Clothing,55100
+1356,Laptop,Electronics,73652
+1357,Football,Sports,32258
+1358,Sneakers,Clothing,43595
+1359,Yoga Mat,Sports,79429
+1360,Gym Dumbbells,Sports,29139
+1361,T-shirt,Clothing,49117
+1362,Laptop,Electronics,9721
+1363,T-shirt,Clothing,6300
+1364,Cricket Bat,Sports,5468
+1365,Smartphone,Electronics,12069
+1366,Smartphone,Electronics,7261
+1367,Gym Dumbbells,Sports,64293
+1368,Headphones,Electronics,46579
+1369,Sofa,Home,62577
+1370,Yoga Mat,Sports,4724
+1371,T-shirt,Clothing,23538
+1372,Headphones,Electronics,1419
+1373,Wardrobe,Home,24495
+1374,Cricket Bat,Sports,60984
+1375,Headphones,Electronics,7169
+1376,Smartphone,Electronics,66797
+1377,Laptop,Electronics,62039
+1378,Cricket Bat,Sports,25491
+1379,Gym Dumbbells,Sports,67546
+1380,Sofa,Home,79409
+1381,Dress,Clothing,47567
+1382,T-shirt,Clothing,53750
+1383,Laptop,Electronics,31579
+1384,Jeans,Clothing,78734
+1385,Dining Table,Home,60029
+1386,Sofa,Home,66844
+1387,Wardrobe,Home,27168
+1388,Tablet,Electronics,42488
+1389,T-shirt,Clothing,39007
+1390,Jacket,Clothing,67209
+1391,Headphones,Electronics,15165
+1392,Dining Table,Home,16142
+1393,Tablet,Electronics,46239
+1394,Chair,Home,45266
+1395,Gym Dumbbells,Sports,12185
+1396,Headphones,Electronics,48498
+1397,Smartphone,Electronics,21677
+1398,Jeans,Clothing,64457
+1399,Smartphone,Electronics,49463
+1400,Wardrobe,Home,66848
+1401,Gym Dumbbells,Sports,65602
+1402,Sneakers,Clothing,68060
+1403,Dining Table,Home,34847
+1404,Bed,Home,28690
+1405,Wardrobe,Home,36327
+1406,Tennis Racket,Sports,5120
+1407,Bed,Home,46677
+1408,T-shirt,Clothing,45232
+1409,Jeans,Clothing,17927
+1410,Jeans,Clothing,74884
+1411,Yoga Mat,Sports,69651
+1412,Bed,Home,52670
+1413,Sofa,Home,27135
+1414,Headphones,Electronics,67181
+1415,Smartphone,Electronics,954
+1416,Football,Sports,60946
+1417,Tablet,Electronics,14879
+1418,Bed,Home,42528
+1419,Sneakers,Clothing,56167
+1420,Gym Dumbbells,Sports,75496
+1421,Smartwatch,Electronics,74279
+1422,Yoga Mat,Sports,51885
+1423,Dining Table,Home,46235
+1424,Football,Sports,72035
+1425,Smartphone,Electronics,48407
+1426,Yoga Mat,Sports,54638
+1427,Laptop,Electronics,2508
+1428,Sofa,Home,14098
+1429,Gym Dumbbells,Sports,28597
+1430,Laptop,Electronics,13776
+1431,Dress,Clothing,42441
+1432,Sofa,Home,73470
+1433,Yoga Mat,Sports,57273
+1434,Jeans,Clothing,62045
+1435,Smartwatch,Electronics,74173
+1436,T-shirt,Clothing,53995
+1437,Tablet,Electronics,52090
+1438,Football,Sports,54142
+1439,Smartwatch,Electronics,56192
+1440,Smartphone,Electronics,16615
+1441,Sofa,Home,2702
+1442,Headphones,Electronics,59471
+1443,Jeans,Clothing,4717
+1444,Cricket Bat,Sports,47377
+1445,Dining Table,Home,76984
+1446,Sneakers,Clothing,44254
+1447,Sofa,Home,51065
+1448,Dining Table,Home,8383
+1449,Football,Sports,4550
+1450,Cricket Bat,Sports,39379
+1451,Wardrobe,Home,12531
+1452,Yoga Mat,Sports,9920
+1453,Sneakers,Clothing,4160
+1454,Tablet,Electronics,42703
+1455,Gym Dumbbells,Sports,68468
+1456,Cricket Bat,Sports,5863
+1457,Chair,Home,16792
+1458,Football,Sports,5364
+1459,Chair,Home,32414
+1460,Cricket Bat,Sports,41865
+1461,Gym Dumbbells,Sports,59740
+1462,Bed,Home,61503
+1463,Gym Dumbbells,Sports,7992
+1464,Laptop,Electronics,56758
+1465,Smartphone,Electronics,33510
+1466,Laptop,Electronics,74033
+1467,Sofa,Home,9991
+1468,Tablet,Electronics,77160
+1469,Jeans,Clothing,42317
+1470,Football,Sports,20250
+1471,Jacket,Clothing,29537
+1472,T-shirt,Clothing,3224
+1473,Cricket Bat,Sports,11224
+1474,Yoga Mat,Sports,57626
+1475,Yoga Mat,Sports,36571
+1476,Dining Table,Home,11143
+1477,Laptop,Electronics,76702
+1478,Chair,Home,55742
+1479,Sneakers,Clothing,54603
+1480,Cricket Bat,Sports,9160
+1481,Tennis Racket,Sports,60895
+1482,Dining Table,Home,28674
+1483,Tennis Racket,Sports,3120
+1484,Jeans,Clothing,36111
+1485,Laptop,Electronics,56109
+1486,Sofa,Home,67000
+1487,T-shirt,Clothing,56014
+1488,Tablet,Electronics,43041
+1489,Cricket Bat,Sports,8396
+1490,Smartwatch,Electronics,52364
+1491,Sneakers,Clothing,19148
+1492,Sneakers,Clothing,70581
+1493,Headphones,Electronics,37052
+1494,Smartwatch,Electronics,56411
+1495,Bed,Home,63574
+1496,Smartphone,Electronics,68023
+1497,T-shirt,Clothing,45613
+1498,T-shirt,Clothing,30186
+1499,Tablet,Electronics,64158
+1500,Football,Sports,6140
+1501,Dress,Clothing,50574
+1502,Jeans,Clothing,25399
+1503,Smartwatch,Electronics,35518
+1504,Bed,Home,45019
+1505,T-shirt,Clothing,67727
+1506,Sofa,Home,50222
+1507,Jeans,Clothing,56167
+1508,Football,Sports,19743
+1509,Chair,Home,50449
+1510,Headphones,Electronics,11385
+1511,T-shirt,Clothing,37818
+1512,Dress,Clothing,55788
+1513,T-shirt,Clothing,10695
+1514,Headphones,Electronics,22487
+1515,Sneakers,Clothing,20939
+1516,Smartwatch,Electronics,63625
+1517,Sofa,Home,34461
+1518,Chair,Home,32768
+1519,Jacket,Clothing,73894
+1520,Dress,Clothing,11324
+1521,Chair,Home,14729
+1522,Chair,Home,46106
+1523,Wardrobe,Home,43559
+1524,Gym Dumbbells,Sports,37199
+1525,Cricket Bat,Sports,43200
+1526,Jacket,Clothing,65615
+1527,Headphones,Electronics,11839
+1528,Dress,Clothing,51371
+1529,Tablet,Electronics,77060
+1530,Smartphone,Electronics,16895
+1531,Jeans,Clothing,21611
+1532,Headphones,Electronics,62179
+1533,Cricket Bat,Sports,46498
+1534,Headphones,Electronics,9400
+1535,Smartphone,Electronics,79902
+1536,Chair,Home,19694
+1537,Football,Sports,68833
+1538,Laptop,Electronics,13308
+1539,Gym Dumbbells,Sports,66295
+1540,Gym Dumbbells,Sports,76053
+1541,Sofa,Home,79616
+1542,Yoga Mat,Sports,22064
+1543,Laptop,Electronics,64401
+1544,Smartwatch,Electronics,52365
+1545,Wardrobe,Home,38771
+1546,Sofa,Home,6428
+1547,Smartwatch,Electronics,62629
+1548,Tablet,Electronics,15108
+1549,Football,Sports,23589
+1550,Headphones,Electronics,22241
+1551,Football,Sports,2215
+1552,Dining Table,Home,71380
+1553,Chair,Home,40876
+1554,Cricket Bat,Sports,57669
+1555,Smartphone,Electronics,65684
+1556,Chair,Home,12671
+1557,Football,Sports,70003
+1558,T-shirt,Clothing,57675
+1559,Gym Dumbbells,Sports,19853
+1560,Sofa,Home,65515
+1561,T-shirt,Clothing,58016
+1562,T-shirt,Clothing,3685
+1563,T-shirt,Clothing,54997
+1564,Laptop,Electronics,18341
+1565,Chair,Home,873
+1566,Dress,Clothing,46182
+1567,Headphones,Electronics,38084
+1568,Jeans,Clothing,68969
+1569,Dining Table,Home,47773
+1570,T-shirt,Clothing,4553
+1571,Headphones,Electronics,46965
+1572,Smartphone,Electronics,47629
+1573,Headphones,Electronics,1137
+1574,Wardrobe,Home,35689
+1575,Tablet,Electronics,41742
+1576,Jeans,Clothing,14029
+1577,Football,Sports,44263
+1578,Wardrobe,Home,35793
+1579,Sofa,Home,41614
+1580,Bed,Home,65256
+1581,Tennis Racket,Sports,78005
+1582,Jeans,Clothing,26436
+1583,Jacket,Clothing,38859
+1584,Football,Sports,76526
+1585,Wardrobe,Home,45904
+1586,Dining Table,Home,20652
+1587,Bed,Home,19924
+1588,Dining Table,Home,10708
+1589,Yoga Mat,Sports,41784
+1590,Football,Sports,21111
+1591,Sneakers,Clothing,39967
+1592,Wardrobe,Home,22094
+1593,Smartphone,Electronics,7354
+1594,Gym Dumbbells,Sports,8607
+1595,T-shirt,Clothing,70336
+1596,T-shirt,Clothing,67115
+1597,Chair,Home,6059
+1598,Smartphone,Electronics,41687
+1599,Dress,Clothing,55808
+1600,Laptop,Electronics,73197
+1601,Chair,Home,44425
+1602,Smartwatch,Electronics,78076
+1603,Smartphone,Electronics,49155
+1604,Jacket,Clothing,37991
+1605,Football,Sports,24244
+1606,Chair,Home,47176
+1607,Bed,Home,48773
+1608,Headphones,Electronics,62176
+1609,Gym Dumbbells,Sports,63080
+1610,Gym Dumbbells,Sports,55009
+1611,Laptop,Electronics,79080
+1612,Jacket,Clothing,70269
+1613,Jacket,Clothing,14517
+1614,Football,Sports,22576
+1615,Jeans,Clothing,65850
+1616,Sofa,Home,4863
+1617,Laptop,Electronics,28803
+1618,Bed,Home,13806
+1619,Tennis Racket,Sports,52009
+1620,Smartwatch,Electronics,77310
+1621,Gym Dumbbells,Sports,70569
+1622,Jacket,Clothing,7937
+1623,Sofa,Home,66728
+1624,Wardrobe,Home,13712
+1625,Sneakers,Clothing,62600
+1626,Yoga Mat,Sports,73598
+1627,Sneakers,Clothing,40943
+1628,Wardrobe,Home,65020
+1629,Tennis Racket,Sports,18467
+1630,Dress,Clothing,65485
+1631,Tablet,Electronics,59066
+1632,Bed,Home,11949
+1633,T-shirt,Clothing,966
+1634,Tablet,Electronics,10819
+1635,Sofa,Home,58338
+1636,Bed,Home,7401
+1637,T-shirt,Clothing,6351
+1638,Sofa,Home,17258
+1639,Jeans,Clothing,52972
+1640,Smartwatch,Electronics,43135
+1641,Smartphone,Electronics,32104
+1642,Tablet,Electronics,74597
+1643,Football,Sports,60796
+1644,Smartwatch,Electronics,21933
+1645,Headphones,Electronics,74721
+1646,Bed,Home,62435
+1647,Dining Table,Home,56937
+1648,Jeans,Clothing,13472
+1649,Cricket Bat,Sports,57123
+1650,Tennis Racket,Sports,69776
+1651,Football,Sports,47823
+1652,Jacket,Clothing,25001
+1653,Smartphone,Electronics,60391
+1654,Jeans,Clothing,14422
+1655,Sofa,Home,51563
+1656,Laptop,Electronics,78787
+1657,Wardrobe,Home,34036
+1658,Chair,Home,53968
+1659,Headphones,Electronics,78137
+1660,Chair,Home,9341
+1661,Smartwatch,Electronics,34115
+1662,Gym Dumbbells,Sports,57550
+1663,Wardrobe,Home,62176
+1664,Cricket Bat,Sports,34664
+1665,Tablet,Electronics,44380
+1666,Dress,Clothing,6163
+1667,Laptop,Electronics,72311
+1668,Tennis Racket,Sports,10621
+1669,Tennis Racket,Sports,52652
+1670,T-shirt,Clothing,7682
+1671,Headphones,Electronics,60692
+1672,Sneakers,Clothing,33988
+1673,Smartwatch,Electronics,2616
+1674,Football,Sports,42713
+1675,Chair,Home,14477
+1676,Smartwatch,Electronics,28485
+1677,Sneakers,Clothing,56365
+1678,Smartphone,Electronics,69525
+1679,Dress,Clothing,63921
+1680,Tennis Racket,Sports,25664
+1681,Smartwatch,Electronics,17222
+1682,Bed,Home,24195
+1683,Wardrobe,Home,32520
+1684,Smartphone,Electronics,43862
+1685,Wardrobe,Home,24093
+1686,Smartphone,Electronics,37551
+1687,Tennis Racket,Sports,28314
+1688,T-shirt,Clothing,34961
+1689,Dress,Clothing,63966
+1690,Jacket,Clothing,18392
+1691,Smartwatch,Electronics,33200
+1692,T-shirt,Clothing,17843
+1693,Smartwatch,Electronics,48493
+1694,Jacket,Clothing,72743
+1695,Gym Dumbbells,Sports,78790
+1696,Sneakers,Clothing,17556
+1697,Yoga Mat,Sports,48213
+1698,Laptop,Electronics,23929
+1699,Smartwatch,Electronics,43275
+1700,Dress,Clothing,32076
+1701,Dress,Clothing,29628
+1702,Tennis Racket,Sports,18150
+1703,T-shirt,Clothing,11356
+1704,Dress,Clothing,13722
+1705,Headphones,Electronics,5294
+1706,Dress,Clothing,11109
+1707,Wardrobe,Home,42940
+1708,Smartwatch,Electronics,4251
+1709,Headphones,Electronics,41365
+1710,Jacket,Clothing,60014
+1711,Tennis Racket,Sports,64347
+1712,Jeans,Clothing,40281
+1713,Headphones,Electronics,44347
+1714,Gym Dumbbells,Sports,10358
+1715,Smartwatch,Electronics,15346
+1716,Jeans,Clothing,23531
+1717,Wardrobe,Home,68523
+1718,Tablet,Electronics,15248
+1719,Dining Table,Home,70609
+1720,Headphones,Electronics,44864
+1721,Chair,Home,18675
+1722,Wardrobe,Home,615
+1723,Tablet,Electronics,7935
+1724,Jeans,Clothing,64499
+1725,Dress,Clothing,9385
+1726,Yoga Mat,Sports,53776
+1727,Yoga Mat,Sports,68114
+1728,Bed,Home,11945
+1729,Jeans,Clothing,26294
+1730,Smartwatch,Electronics,14279
+1731,Laptop,Electronics,39315
+1732,Bed,Home,11134
+1733,Chair,Home,18654
+1734,Sneakers,Clothing,51142
+1735,Smartwatch,Electronics,50016
+1736,Wardrobe,Home,46026
+1737,Wardrobe,Home,59307
+1738,Tablet,Electronics,5575
+1739,Tennis Racket,Sports,49446
+1740,Bed,Home,17217
+1741,Dining Table,Home,38246
+1742,Smartwatch,Electronics,41492
+1743,Dress,Clothing,74128
+1744,Gym Dumbbells,Sports,79778
+1745,Headphones,Electronics,75761
+1746,Cricket Bat,Sports,27374
+1747,Jeans,Clothing,55053
+1748,Laptop,Electronics,30028
+1749,Dining Table,Home,47051
+1750,Jeans,Clothing,44177
+1751,Smartwatch,Electronics,74769
+1752,Smartphone,Electronics,25159
+1753,Football,Sports,51763
+1754,Yoga Mat,Sports,14132
+1755,Cricket Bat,Sports,55067
+1756,Chair,Home,56513
+1757,Tablet,Electronics,61986
+1758,Smartphone,Electronics,22059
+1759,Sofa,Home,12188
+1760,Sneakers,Clothing,29365
+1761,Tablet,Electronics,11419
+1762,Bed,Home,6228
+1763,Laptop,Electronics,11619
+1764,Tablet,Electronics,63206
+1765,Tennis Racket,Sports,33831
+1766,Dress,Clothing,31693
+1767,Jeans,Clothing,28526
+1768,Bed,Home,18858
+1769,Sneakers,Clothing,68590
+1770,Smartphone,Electronics,76616
+1771,Jeans,Clothing,68003
+1772,Wardrobe,Home,34020
+1773,Jeans,Clothing,60902
+1774,Cricket Bat,Sports,15722
+1775,Wardrobe,Home,77974
+1776,T-shirt,Clothing,3340
+1777,Dining Table,Home,6454
+1778,Smartphone,Electronics,3845
+1779,Chair,Home,36713
+1780,Sofa,Home,56681
+1781,Jacket,Clothing,9809
+1782,Jeans,Clothing,63795
+1783,Wardrobe,Home,78694
+1784,Gym Dumbbells,Sports,65428
+1785,Bed,Home,69083
+1786,Yoga Mat,Sports,11865
+1787,Sofa,Home,75243
+1788,Headphones,Electronics,58392
+1789,Cricket Bat,Sports,35526
+1790,Sneakers,Clothing,38588
+1791,Smartwatch,Electronics,6382
+1792,T-shirt,Clothing,72826
+1793,T-shirt,Clothing,12810
+1794,Wardrobe,Home,67334
+1795,Football,Sports,55816
+1796,Headphones,Electronics,68454
+1797,Bed,Home,3181
+1798,Tablet,Electronics,10565
+1799,Yoga Mat,Sports,27800
+1800,Smartwatch,Electronics,40828
+1801,Wardrobe,Home,68635
+1802,Dress,Clothing,36935
+1803,Chair,Home,21052
+1804,Football,Sports,11628
+1805,Smartphone,Electronics,73382
+1806,Headphones,Electronics,16745
+1807,Sofa,Home,7905
+1808,Laptop,Electronics,25894
+1809,Yoga Mat,Sports,67416
+1810,Jacket,Clothing,54730
+1811,Dress,Clothing,20309
+1812,Chair,Home,34963
+1813,Laptop,Electronics,5301
+1814,Headphones,Electronics,23535
+1815,Laptop,Electronics,35541
+1816,T-shirt,Clothing,47259
+1817,Chair,Home,16905
+1818,Laptop,Electronics,27334
+1819,Headphones,Electronics,3650
+1820,Cricket Bat,Sports,14929
+1821,T-shirt,Clothing,66550
+1822,Dining Table,Home,12460
+1823,Smartphone,Electronics,53315
+1824,Dining Table,Home,9905
+1825,Jeans,Clothing,28097
+1826,Jeans,Clothing,62541
+1827,Yoga Mat,Sports,7121
+1828,Cricket Bat,Sports,14710
+1829,Sneakers,Clothing,10603
+1830,Headphones,Electronics,42535
+1831,Smartphone,Electronics,59387
+1832,Dining Table,Home,37761
+1833,Tablet,Electronics,71610
+1834,Wardrobe,Home,65003
+1835,Gym Dumbbells,Sports,67466
+1836,Bed,Home,24602
+1837,Gym Dumbbells,Sports,59478
+1838,Wardrobe,Home,62780
+1839,Smartphone,Electronics,3228
+1840,T-shirt,Clothing,22768
+1841,Cricket Bat,Sports,31758
+1842,Headphones,Electronics,36732
+1843,Sneakers,Clothing,17190
+1844,Dress,Clothing,21070
+1845,Jeans,Clothing,18269
+1846,Sneakers,Clothing,62547
+1847,Gym Dumbbells,Sports,59191
+1848,Headphones,Electronics,21978
+1849,Wardrobe,Home,929
+1850,Smartphone,Electronics,22171
+1851,T-shirt,Clothing,31907
+1852,Dress,Clothing,69855
+1853,Cricket Bat,Sports,32739
+1854,Tablet,Electronics,12602
+1855,Dress,Clothing,53081
+1856,Yoga Mat,Sports,72951
+1857,Gym Dumbbells,Sports,12381
+1858,Tablet,Electronics,44690
+1859,Tennis Racket,Sports,71937
+1860,Laptop,Electronics,31175
+1861,Laptop,Electronics,4526
+1862,Smartwatch,Electronics,5452
+1863,Tablet,Electronics,35436
+1864,Laptop,Electronics,49755
+1865,Cricket Bat,Sports,38899
+1866,T-shirt,Clothing,42770
+1867,Yoga Mat,Sports,39420
+1868,Football,Sports,62381
+1869,Sofa,Home,35345
+1870,Dining Table,Home,43831
+1871,Chair,Home,22287
+1872,Cricket Bat,Sports,73628
+1873,Tennis Racket,Sports,10703
+1874,Tablet,Electronics,3617
+1875,Dining Table,Home,77469
+1876,Dining Table,Home,20467
+1877,Tablet,Electronics,71949
+1878,Tablet,Electronics,63090
+1879,Jeans,Clothing,459
+1880,Headphones,Electronics,54983
+1881,T-shirt,Clothing,9432
+1882,Smartphone,Electronics,61641
+1883,Gym Dumbbells,Sports,79962
+1884,Tennis Racket,Sports,30601
+1885,Smartwatch,Electronics,47942
+1886,Tablet,Electronics,26879
+1887,Tablet,Electronics,79649
+1888,Laptop,Electronics,78203
+1889,Jeans,Clothing,60800
+1890,Jacket,Clothing,13311
+1891,Tablet,Electronics,77745
+1892,Dining Table,Home,8644
+1893,Sneakers,Clothing,66832
+1894,Laptop,Electronics,41813
+1895,Laptop,Electronics,25800
+1896,Cricket Bat,Sports,48579
+1897,Cricket Bat,Sports,63482
+1898,Dress,Clothing,55999
+1899,Yoga Mat,Sports,71867
+1900,Chair,Home,52443
+1901,Dining Table,Home,50892
+1902,Football,Sports,56841
+1903,Smartphone,Electronics,21681
+1904,Yoga Mat,Sports,20784
+1905,Yoga Mat,Sports,7716
+1906,Sneakers,Clothing,59368
+1907,Wardrobe,Home,50092
+1908,Chair,Home,73129
+1909,Chair,Home,7317
+1910,Bed,Home,62085
+1911,Headphones,Electronics,43714
+1912,Laptop,Electronics,62483
+1913,Yoga Mat,Sports,32213
+1914,Dress,Clothing,6214
+1915,Wardrobe,Home,38983
+1916,Smartwatch,Electronics,51124
+1917,Laptop,Electronics,47490
+1918,Smartphone,Electronics,35432
+1919,Football,Sports,44973
+1920,Dress,Clothing,46981
+1921,Tennis Racket,Sports,26998
+1922,Smartphone,Electronics,62002
+1923,Jeans,Clothing,54230
+1924,Smartphone,Electronics,17817
+1925,Tennis Racket,Sports,7977
+1926,Smartphone,Electronics,25543
+1927,Dress,Clothing,47969
+1928,Dress,Clothing,7183
+1929,Gym Dumbbells,Sports,61210
+1930,Wardrobe,Home,21239
+1931,Sofa,Home,6775
+1932,Smartphone,Electronics,30758
+1933,Laptop,Electronics,51081
+1934,Headphones,Electronics,32839
+1935,Sofa,Home,33099
+1936,Tablet,Electronics,72949
+1937,Dress,Clothing,46552
+1938,Dress,Clothing,79208
+1939,Dining Table,Home,9780
+1940,Dress,Clothing,22012
+1941,Tablet,Electronics,65568
+1942,Yoga Mat,Sports,52551
+1943,Jacket,Clothing,35691
+1944,Bed,Home,79389
+1945,Headphones,Electronics,70723
+1946,Jacket,Clothing,17920
+1947,Jeans,Clothing,70941
+1948,Dining Table,Home,43813
+1949,Chair,Home,39093
+1950,Cricket Bat,Sports,868
+1951,Smartwatch,Electronics,27475
+1952,Dress,Clothing,38817
+1953,Chair,Home,39077
+1954,Cricket Bat,Sports,44468
+1955,T-shirt,Clothing,28865
+1956,Jeans,Clothing,10241
+1957,Dress,Clothing,29291
+1958,Smartphone,Electronics,26189
+1959,Wardrobe,Home,60920
+1960,Tennis Racket,Sports,39744
+1961,Dress,Clothing,36289
+1962,Jacket,Clothing,47502
+1963,Gym Dumbbells,Sports,12645
+1964,Jacket,Clothing,56156
+1965,Tablet,Electronics,50002
+1966,Smartwatch,Electronics,75264
+1967,Jacket,Clothing,16482
+1968,Wardrobe,Home,54768
+1969,Chair,Home,1739
+1970,T-shirt,Clothing,39067
+1971,Smartwatch,Electronics,25965
+1972,Yoga Mat,Sports,19936
+1973,Dress,Clothing,39314
+1974,Smartphone,Electronics,50032
+1975,Sneakers,Clothing,57846
+1976,Headphones,Electronics,39347
+1977,Sneakers,Clothing,76217
+1978,Gym Dumbbells,Sports,55929
+1979,Laptop,Electronics,76022
+1980,Football,Sports,66707
+1981,Sneakers,Clothing,78616
+1982,Cricket Bat,Sports,42137
+1983,Smartwatch,Electronics,41379
+1984,Cricket Bat,Sports,49855
+1985,Football,Sports,55356
+1986,Bed,Home,16877
+1987,Smartwatch,Electronics,23502
+1988,Tablet,Electronics,5135
+1989,Gym Dumbbells,Sports,40114
+1990,T-shirt,Clothing,54405
+1991,Headphones,Electronics,41515
+1992,Wardrobe,Home,62010
+1993,Jeans,Clothing,20364
+1994,Football,Sports,13312
+1995,T-shirt,Clothing,25613
+1996,Dining Table,Home,57191
+1997,Sneakers,Clothing,77353
+1998,Tennis Racket,Sports,78001
+1999,Headphones,Electronics,75658
+2000,Cricket Bat,Sports,32838
