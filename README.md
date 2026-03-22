@@ -60,6 +60,8 @@ Worked with 2000+ records in each table
 Applied SQL joins and aggregate functions
 Created views for better data analysis
 
+Screenshot/Demo:
+
 
 
 
